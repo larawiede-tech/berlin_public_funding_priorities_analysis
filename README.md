@@ -117,7 +117,18 @@ Analyzes how Berlin's funding priorities changed between 2020 and 2024, highligh
 - Geographic analysis
 - Inflation-adjusted funding analysis
 - Recipient segmentation
--- -------------------------------------------------------  
+
 ## Repository Structure
--- -------------------------------------------------------
-berlin-public-funding-analysis │ ├── dashboard │ └── Berlin_Public_Funding.pbix │ ├── notebooks │ └── Berlin_Funding_EDA.ipynb │ ├── images │ ├── overview.png │ ├── distribution.png │ └── trends.png │ ├── README.md └── requirements.txt
+
+berlin-public-funding-analysis │
+├── dashboard 
+│ └── Berlin_Public_Funding.pbix 
+│ 
+├── notebooks 
+│ └── Berlin_Funding_EDA.ipynb 
+│ ├── images 
+│ ├── overview.png 
+│ ├── distribution.png 
+│ └── trends.png 
+│ ├── README.md
+└── requirements.txt
