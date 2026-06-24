@@ -30,14 +30,16 @@ Source: Berlin Open Data Portal
 
 ## Main variables used:
 
-betrag          	  Funding amount (€)
-politikbereich	    Policy area
-zweck	              Funding purpose
-empfaengerid	      Recipient identifier
-name	              Recipient name
-geber	              Funding provider
-art	                Funding type
-jahr	              Year
+| Variable | Description |
+|-----------|------------|
+| betrag | Funding amount (€) |
+| politikbereich | Policy area |
+| zweck | Funding purpose |
+| empfaengerid | Recipient identifier |
+| name | Recipient name |
+| geber | Funding provider |
+| art | Funding type |
+| jahr | Year |
 
 ## Tools Used
 
